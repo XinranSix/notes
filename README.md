@@ -1,5 +1,3 @@
-- GAMES 101
-
 
 <details>
 <summary>GAMES 101</summary>
