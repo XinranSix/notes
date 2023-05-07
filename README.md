@@ -1,16 +1,19 @@
 ![图形学、游戏开发](https://user-images.githubusercontent.com/62458905/236681550-8d9ea87f-aab6-433c-bdca-5de4cf02f9b6.svg)
 
-## 博客、文档和教程
+## 文档和教程
 
 <details>
 <summary>C++</summary>
 
-- [C++11、C++14、C++17、C++20新特性总结（5万字详解）](https://blog.csdn.net/qq_41854911/article/details/119657617?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%257Edefault%257ECTRLIST%257ERate-1-119657617-blog-122969157.235%255Ev28%255Epc_relevant_t0_download&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%257Edefault%257ECTRLIST%257ERate-1-119657617-blog-122969157.235%255Ev28%255Epc_relevant_t0_download&utm_relevant_index=2)
-- [C++11新特性总结](https://blog.csdn.net/weixin_53695360/article/details/122969157?ops_request_misc=%25257B%252522request%25255Fid%252522%25253A%252522168100413316800211559936%252522%25252C%252522scm%252522%25253A%25252220140713.130102334..%252522%25257D&request_id=168100413316800211559936&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-2-122969157-null-null.142%5Ev82%5Ekoosearch_v1,201%5Ev4%5Eadd_ask,239%5Ev2%5Einsert_chatgpt&utm_term=c%252B%252B%25E6%2596%25B0%25E7%2589%25B9%25E6%2580%25A7&spm=1018.2226.3001.4187)
-- [fmt：现代的 C++ 字符串格式化库，实现了 C++20 的特征](https://www.jianshu.com/p/fdca0fde50ac)
 - [现代 C++ 教程](https://changkun.de/modern-cpp/zh-cn/00-preface/)
 - [learn C++](https://www.learncpp.com/)
 - [cppreference](https://en.cppreference.com/w/cpp/header)
+</details>
+
+<details>
+<summary>C#</summary>
+
+- [C# 文档](https://learn.microsoft.com/zh-cn/dotnet/csharp/)
 </details>
 
 <details>
@@ -27,9 +30,62 @@
 </details>
 
 <details>
+<summary>WebGL</summary>
+
+- [WebGL 理论基础](https://webglfundamentals.org/webgl/lessons/zh_cn/)
+</details>
+
+<details>
 <summary>计算机图形学</summary>
 
 - [Ray Tracing in One Weekend — The Book Series](https://raytracing.github.io/)
+- [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744/)
+- [GAMES202-高质量实时渲染](https://www.bilibili.com/video/BV1YK4y1T7yY/)
+- [GAMES201：高级物理引擎实战指南2020](https://www.bilibili.com/video/BV1ZK411H7Hc/)
+</details>
+
+<details>
+<summary>Unity</summary>
+
+- [AwesomeUnityTutorial](https://gitee.com/chutianshu1981/AwesomeUnityTutorial/tree/main)
+- [【unity2022入门第一季】整合Unity官方教程设计最佳学习路线，Unity精讲入门系列](https://www.bilibili.com/video/BV1Mr4y1X76H)
+</details>
+
+<details>
+<summary>画画、建模</summary>
+
+- [拜托三连了！这绝对是全B站最用心（没有之一）的PS公开课程，耗时千余小时开发！](https://www.bilibili.com/video/BV1Q5411P7k4/)
+- [3D建模教程，3dmax，MAYA，zbrush，3d建模基础教学全套](https://www.bilibili.com/video/BV1pA411j7pa/)
+- [3D建模教程，3dmax，MAYA，zbrush，3d建模基础教学全套](https://www.bilibili.com/video/BV1pA411j7pa/)
+- [冒死上传！目前B站最完整的绘画教程，包含所有绘画风格！插画|厚涂|原画|板绘!](https://www.bilibili.com/video/BV1d64y197gj/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=76a5184e318e57fe3ff6a57c443142ad)
+</details>
+
+## 博客
+
+<details>
+<summary>C++</summary>
+
+- [C++11、C++14、C++17、C++20新特性总结（5万字详解）](https://blog.csdn.net/qq_41854911/article/details/119657617?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%257Edefault%257ECTRLIST%257ERate-1-119657617-blog-122969157.235%255Ev28%255Epc_relevant_t0_download&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%257Edefault%257ECTRLIST%257ERate-1-119657617-blog-122969157.235%255Ev28%255Epc_relevant_t0_download&utm_relevant_index=2)
+- [C++11新特性总结](https://blog.csdn.net/weixin_53695360/article/details/122969157?ops_request_misc=%25257B%252522request%25255Fid%252522%25253A%252522168100413316800211559936%252522%25252C%252522scm%252522%25253A%25252220140713.130102334..%252522%25257D&request_id=168100413316800211559936&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-2-122969157-null-null.142%5Ev82%5Ekoosearch_v1,201%5Ev4%5Eadd_ask,239%5Ev2%5Einsert_chatgpt&utm_term=c%252B%252B%25E6%2596%25B0%25E7%2589%25B9%25E6%2580%25A7&spm=1018.2226.3001.4187)
+- [fmt：现代的 C++ 字符串格式化库，实现了 C++20 的特征](https://www.jianshu.com/p/fdca0fde50ac)
+</details>
+
+<details>
+<summary>Rust</summary>
+
+</details>
+
+<details>
+<summary>OpenGL</summary>
+
+- [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html)
+</details>
+
+<details>
+<summary>计算机图形学</summary>
+
+- [The Normal Matrix](http://www.lighthouse3d.com/tutorials/glsl-12-tutorial/the-normal-matrix/)
+- [Mouse Picking with Ray Casting](https://antongerdelan.net/opengl/raycasting.html)
 </details>
 
 <details>
@@ -79,19 +135,18 @@
 
 </details>
 
-## 工具
-
-<details>
-<summary>数学</summary>
+## 工具汇总
 
 - [WolframAlpha](https://www.wolframalpha.com/)
 - [desmos](https://www.desmos.com/calculator?lang=zh-CN)
 - [GeoGebra](https://www.geogebra.org/)
 - [数字帝国](https://zh.numberempire.com/)
-</details>
+- [Diagrams](https://app.diagrams.net/)
+- [Excalidraw](https://excalidraw.com/)
+- [Excalidraw](https://excalidraw.com/)
+- [Zlibary](https://singlelogin.me/)
 
-<details>
-<summary>在线算法刷题</summary>
+## 在线算法刷题
 
 - [Codeforces](https://codeforces.com/)
 - [AcWing](https://www.acwing.com/)
@@ -99,4 +154,16 @@
 - [牛客](https://www.nowcoder.com/)
 - [leetcode](https://leetcode.cn/)
 - [PTA](https://pintia.cn/home)
-</details>
+
+## 参考书目
+
+- 《OpenGL 编程指南》 
+- 《3D 数学基础：图形和游戏》
+- 《全局光照算法技术》
+- 《计算机图形学：几何体数据结构》
+- 《C++ Primer》
+- 《Vulkan Programming Guide》
+- 《The Rust Programming Language》
+- 《Fundamentals of Computer Graphics》
+- 《Real-Time Render》
+- 《数字图像处理》
