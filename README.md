@@ -1,10 +1,41 @@
 ![图形学、游戏开发](https://user-images.githubusercontent.com/62458905/236681550-8d9ea87f-aab6-433c-bdca-5de4cf02f9b6.svg)
 
-## 优秀博客
+## 博客、文档和教程
 
 <details>
 <summary>C++</summary>
-5
+
+- [C++11、C++14、C++17、C++20新特性总结（5万字详解）](https://blog.csdn.net/qq_41854911/article/details/119657617?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%257Edefault%257ECTRLIST%257ERate-1-119657617-blog-122969157.235%255Ev28%255Epc_relevant_t0_download&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%257Edefault%257ECTRLIST%257ERate-1-119657617-blog-122969157.235%255Ev28%255Epc_relevant_t0_download&utm_relevant_index=2)
+- [C++11新特性总结](https://blog.csdn.net/weixin_53695360/article/details/122969157?ops_request_misc=%25257B%252522request%25255Fid%252522%25253A%252522168100413316800211559936%252522%25252C%252522scm%252522%25253A%25252220140713.130102334..%252522%25257D&request_id=168100413316800211559936&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-2-122969157-null-null.142%5Ev82%5Ekoosearch_v1,201%5Ev4%5Eadd_ask,239%5Ev2%5Einsert_chatgpt&utm_term=c%252B%252B%25E6%2596%25B0%25E7%2589%25B9%25E6%2580%25A7&spm=1018.2226.3001.4187)
+- [fmt：现代的 C++ 字符串格式化库，实现了 C++20 的特征](https://www.jianshu.com/p/fdca0fde50ac)
+- [现代 C++ 教程](https://changkun.de/modern-cpp/zh-cn/00-preface/)
+- [learn C++](https://www.learncpp.com/)
+- [cppreference](https://en.cppreference.com/w/cpp/header)
+</details>
+
+<details>
+<summary>Rust</summary>
+
+- [Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
+</details>
+
+<details>
+<summary>OpenGL</summary>
+
+- [LearnOpenGL CN](https://learnopengl-cn.github.io/)
+- [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html)
+</details>
+
+<details>
+<summary>计算机图形学</summary>
+
+- [Ray Tracing in One Weekend — The Book Series](https://raytracing.github.io/)
+</details>
+
+<details>
+<summary>数学</summary>
+
+- [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
 </details>
 
 ## 个人笔记
@@ -32,7 +63,7 @@
 </details>
 
 <details>
-<summary>Math</summary>
+<summary>数学</summary>
 
 </details>
 
