@@ -175,9 +175,10 @@
 - 《3D 数学基础：图形和游戏》
 - 《全局光照算法技术》
 - 《计算机图形学：几何体数据结构》
+- 《数字图像处理》
+- 《线性代数及其应用》
 - 《C++ Primer》
 - 《Vulkan Programming Guide》
 - 《The Rust Programming Language》
 - 《Fundamentals of Computer Graphics》
 - 《Real-Time Render》
-- 《数字图像处理》
