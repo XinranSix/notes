@@ -1,3 +1,6 @@
+![图形学、游戏开发](https://user-images.githubusercontent.com/62458905/236681411-092fee9e-fdf1-4442-8fb7-62ad5d9e710b.svg)
+
+## 个人笔记
 
 <details>
 <summary>GAMES 101</summary>
