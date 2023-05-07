@@ -42,6 +42,7 @@
 - [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744/)
 - [GAMES202-高质量实时渲染](https://www.bilibili.com/video/BV1YK4y1T7yY/)
 - [GAMES201：高级物理引擎实战指南2020](https://www.bilibili.com/video/BV1ZK411H7Hc/)
+- [清华大学-计算机图形学基础（国家级精品课）](https://www.bilibili.com/video/BV13441127CH/)
 </details>
 
 <details>
@@ -58,6 +59,13 @@
 - [3D建模教程，3dmax，MAYA，zbrush，3d建模基础教学全套](https://www.bilibili.com/video/BV1pA411j7pa/)
 - [3D建模教程，3dmax，MAYA，zbrush，3d建模基础教学全套](https://www.bilibili.com/video/BV1pA411j7pa/)
 - [冒死上传！目前B站最完整的绘画教程，包含所有绘画风格！插画|厚涂|原画|板绘!](https://www.bilibili.com/video/BV1d64y197gj/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=76a5184e318e57fe3ff6a57c443142ad)
+</details>
+
+<details>
+<summary>数学</summary>
+
+- [【官方双语】形象展示傅里叶变换](https://www.bilibili.com/video/BV1pW411J7s8/)
+- [麻省理工学院 - MIT - 线性代数（我愿称之为线性代数教程天花板）](https://www.bilibili.com/video/BV16Z4y1U7oU/)
 </details>
 
 ## 博客
@@ -92,6 +100,12 @@
 <summary>数学</summary>
 
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
+- [我在知乎学数学](https://zhuanlan.zhihu.com/p/105704401)
+- [【洛必达】一篇文章，给高中生讲清楚洛必达](https://zhuanlan.zhihu.com/p/107077095)
+- [如何直观理解矩阵和线性代数？](https://www.zhihu.com/question/21082351/answer/734162947)
+- [四元数(Quaternions)](https://zhuanlan.zhihu.com/p/97186723)
+- [四元数和旋转(Quaternion & rotation)](https://zhuanlan.zhihu.com/p/78987582)
+- [旋转的表示](https://zhuanlan.zhihu.com/p/539134962?utm_medium=social&utm_oi=1040949215538733056&utm_psn=1638676212808646656&utm_source=qq)
 </details>
 
 <details>
