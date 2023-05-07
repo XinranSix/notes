@@ -38,6 +38,13 @@
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
 </details>
 
+<details>
+<summary>Unity</summary>
+
+- [AwesomeUnityTutorial](https://gitee.com/chutianshu1981/AwesomeUnityTutorial/tree/main)
+- [【unity2022入门第一季】整合Unity官方教程设计最佳学习路线，Unity精讲入门系列](https://www.bilibili.com/video/BV1Mr4y1X76H)
+</details>
+
 ## 个人笔记
 
 <details>
@@ -70,4 +77,26 @@
 <details>
 <summary>C++</summary>
 
+</details>
+
+## 工具
+
+<details>
+<summary>数学</summary>
+
+- [WolframAlpha](https://www.wolframalpha.com/)
+- [desmos](https://www.desmos.com/calculator?lang=zh-CN)
+- [GeoGebra](https://www.geogebra.org/)
+- [数字帝国](https://zh.numberempire.com/)
+</details>
+
+<details>
+<summary>在线算法刷题</summary>
+
+- [Codeforces](https://codeforces.com/)
+- [AcWing](https://www.acwing.com/)
+- [洛谷](https://www.luogu.com.cn/)
+- [牛客](https://www.nowcoder.com/)
+- [leetcode](https://leetcode.cn/)
+- [PTA](https://pintia.cn/home)
 </details>
