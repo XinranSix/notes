@@ -159,7 +159,6 @@
 - [数字帝国](https://zh.numberempire.com/)
 - [Diagrams](https://app.diagrams.net/)
 - [Excalidraw](https://excalidraw.com/)
-- [Excalidraw](https://excalidraw.com/)
 - [Zlibary](https://singlelogin.me/)
 
 ## 在线算法刷题
@@ -184,3 +183,18 @@
 - 《The Rust Programming Language》
 - 《Fundamentals of Computer Graphics》
 - 《Real-Time Render》
+
+
+
+**計算機圖形: 入門 / API類**
+
+| 书名 | 描述 | 链接 |
+|:---:|:---:|:---:|
+|《Vulkan Programming Guide》||[豆瓣](https://book.douban.com/subject/26736293/)|
+|《Introduction to 3D Game Programming with DirectX 12》||[豆瓣](https://book.douban.com/subject/26628210/)|
+|《Real-Time 3D Rendering with DirectX and HLSL》||[豆瓣](https://book.douban.com/subject/25847254/)|
+|《计算机图形学》||[豆瓣](https://book.douban.com/subject/20438670/)|
+|《Foundations of 3D Computer Graphics》||[豆瓣](https://book.douban.com/subject/11226566/)|
+|《Real-Time Graphics Rendering Engin》||[豆瓣](https://book.douban.com/subject/6125610/)|
+||||
+
