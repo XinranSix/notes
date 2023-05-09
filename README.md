@@ -147,7 +147,7 @@
 <details>
 <summary>C++</summary>
 
-- [C++基础](https://lemonsama123.github.io/notes/CPP/C++基础.html)
+- [C++基础](https://lemonsama123.github.io/notes/笔记/CPP/C++基础.md)
 - [cmake](https://lemonsama123.github.io/notes/CPP/cmake.html)
 </details>
 
@@ -183,38 +183,3 @@
 - 《The Rust Programming Language》
 - 《Fundamentals of Computer Graphics》
 - 《Real-Time Render》
-
-
-
-**計算機圖形: 入門 / API類**
-
-| 书名 | 图片 | 链接 |
-|:---:|:---:|:---:|
-|《Vulkan Programming Guide》|<img src="https://img2.doubanio.com/view/subject/l/public/s29154533.jpg" title="" style="zoom: 25%;">|[豆瓣](https://book.douban.com/subject/26736293/)|
-|《Introduction to 3D Game Programming with DirectX 12》|<img src="https://img2.doubanio.com/view/subject/l/public/s29154533.jpg" title="" style="zoom: 25%;">|[豆瓣](https://book.douban.com/subject/26628210/)|
-|《Real-Time 3D Rendering with DirectX and HLSL》||[豆瓣](https://book.douban.com/subject/25847254/)|
-|《计算机图形学》||[豆瓣](https://book.douban.com/subject/20438670/)|
-|《Foundations of 3D Computer Graphics》||[豆瓣](https://book.douban.com/subject/11226566/)|
-|《Real-Time Graphics Rendering Engin》||[豆瓣](https://book.douban.com/subject/6125610/)|
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-
