@@ -190,7 +190,7 @@
 
 | 书名 | 图片 | 链接 |
 |:---:|:---:|:---:|
-|《Vulkan Programming Guide》|<img src="https://img2.doubanio.com/view/subject/l/public/s29154533.jpg" title="" style="">|[豆瓣](https://book.douban.com/subject/26736293/)|
+|《Vulkan Programming Guide》|<img src="https://img2.doubanio.com/view/subject/l/public/s29154533.jpg" title="" style="zoom: 50%;">|[豆瓣](https://book.douban.com/subject/26736293/)|
 |《Introduction to 3D Game Programming with DirectX 12》||[豆瓣](https://book.douban.com/subject/26628210/)|
 |《Real-Time 3D Rendering with DirectX and HLSL》||[豆瓣](https://book.douban.com/subject/25847254/)|
 |《计算机图形学》||[豆瓣](https://book.douban.com/subject/20438670/)|
