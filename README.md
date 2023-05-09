@@ -147,7 +147,7 @@
 <details>
 <summary>C++</summary>
 
-- [C++基础](https://lemonsama123.github.io/notes/笔记/CPP/C++基础.md)
+- [C++基础](https://lemonsama123.github.io/notes/CPP/C++基础.html)
 - [cmake](https://lemonsama123.github.io/notes/CPP/cmake.html)
 </details>
 
