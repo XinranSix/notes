@@ -186,7 +186,7 @@
 
 | 书名                         | 封面                                                         | 链接 |
 | ---------------------------- | ------------------------------------------------------------ | ---- |
-| 《Vulkan Programming Guide》 | <img src="https://img2.doubanio.com/view/subject/l/public/s29154533.jpg" style="zoom:25%;" /> |      |
+| 《Vulkan Programming Guide》 | <img src="https://img2.doubanio.com/view/subject/l/public/s29154533.jpg" width="25%" /> |      |
 |                              |                                                              |      |
 |                              |                                                              |      |
 
