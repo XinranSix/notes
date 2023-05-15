@@ -40,8 +40,9 @@
 
 - [Ray Tracing in One Weekend — The Book Series](https://raytracing.github.io/)
 - [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744/)
-- [GAMES202-高质量实时渲染](https://www.bilibili.com/video/BV1YK4y1T7yY/)
+- [GAMES104：现代游戏引擎：从入门到实践](https://games-cn.org/games104/)
 - [GAMES201：高级物理引擎实战指南2020](https://www.bilibili.com/video/BV1ZK411H7Hc/)
+- [GAMES202-高质量实时渲染](https://www.bilibili.com/video/BV1YK4y1T7yY/)
 - [清华大学-计算机图形学基础（国家级精品课）](https://www.bilibili.com/video/BV13441127CH/)
 </details>
 
@@ -56,7 +57,7 @@
 <summary>画画、建模</summary>
 
 - [拜托三连了！这绝对是全B站最用心（没有之一）的PS公开课程，耗时千余小时开发！](https://www.bilibili.com/video/BV1Q5411P7k4/)
-- [3D建模教程，3dmax，MAYA，zbrush，3d建模基础教学全套](https://www.bilibili.com/video/BV1pA411j7pa/)
+- [【合集8.21已更新93话】Blender 2.9-3.4黑铁骑士Ⅱ系统零基础入门教程](https://www.bilibili.com/video/BV1zh411Y7LX/)
 - [3D建模教程，3dmax，MAYA，zbrush，3d建模基础教学全套](https://www.bilibili.com/video/BV1pA411j7pa/)
 - [冒死上传！目前B站最完整的绘画教程，包含所有绘画风格！插画|厚涂|原画|板绘!](https://www.bilibili.com/video/BV1d64y197gj/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=76a5184e318e57fe3ff6a57c443142ad)
 </details>
@@ -183,10 +184,4 @@
 - 《The Rust Programming Language》
 - 《Fundamentals of Computer Graphics》
 - 《Real-Time Render》
-
-| 书名                         |                             封面                             | 链接 |
-| ---------------------------- | :----------------------------------------------------------: | ---- |
-| 《Vulkan Programming Guide》 | <img src="https://img2.doubanio.com/view/subject/l/public/s29154533.jpg" width="25%" /> |      |
-|                              |                                                              |      |
-|                              |                                                              |      |
 
