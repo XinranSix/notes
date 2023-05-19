@@ -143,6 +143,7 @@
 <details>
 <summary>数学</summary>
 
+- [线性代数](https://lemonsama123.github.io/notes/数学/线性代数.html)
 </details>
 
 <details>
