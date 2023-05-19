@@ -1,4 +1,9 @@
-![图形学、游戏开发](https://user-images.githubusercontent.com/62458905/236681550-8d9ea87f-aab6-433c-bdca-5de4cf02f9b6.svg)
+![图形学、游戏开发](https://github.com/XinranSix/notes/assets/62458905/47f26e32-02af-4535-aa5b-90fae80d9730)
+
+## 大佬主页
+
+- [毛星云（知乎）](https://www.zhihu.com/people/mao-xing-yun)
+- [毛星云（GitHub）](https://github.com/QianMo)
 
 ## 文档和教程
 
