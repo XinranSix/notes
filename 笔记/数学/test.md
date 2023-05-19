@@ -1,4 +1,4 @@
-## 基本导数表
+<!-- ## 基本导数表
 
 |                基本导数表 {colspan=3}                 |
 | :---------------------------------------------------: | :-----------------------------------------------------: |
@@ -99,4 +99,4 @@ $(1+x)^{\frac{1}{x}}=\mathrm{e}-\frac{\mathrm{e}}{2} x+\frac{11 \mathrm{e}}{24} 
 
 $\left(1+x^2\right)^{\frac{1}{x}}=1+x+\frac{1}{2} x^2-\frac{1}{3} x^3-\frac{11}{24} x^4+\frac{11}{120} x^5+\frac{271}{720} x^6+\frac{53}{2520} x^7-\frac{4069}{13440} x^8+o\left(x^8\right)$
 
-$ (1+\sin x)^{\frac{1}{x}}=\mathrm{e}-\frac{\mathrm{e}}{2} x+\frac{7 \mathrm{e}}{24} x^2-\frac{3 \mathrm{e}}{16} x^3+\frac{139 \mathrm{e}}{1152} x^4-\frac{899 \mathrm{e}}{11520} x^5+\frac{29311 \mathrm{e}}{580608} x^6-\frac{189617 \mathrm{e}}{5806080} x^7+o\left(x^7\right) $
+$ (1+\sin x)^{\frac{1}{x}}=\mathrm{e}-\frac{\mathrm{e}}{2} x+\frac{7 \mathrm{e}}{24} x^2-\frac{3 \mathrm{e}}{16} x^3+\frac{139 \mathrm{e}}{1152} x^4-\frac{899 \mathrm{e}}{11520} x^5+\frac{29311 \mathrm{e}}{580608} x^6-\frac{189617 \mathrm{e}}{5806080} x^7+o\left(x^7\right) $ -->
