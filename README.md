@@ -184,4 +184,16 @@
 - 《The Rust Programming Language》
 - 《Fundamentals of Computer Graphics》
 - 《Real-Time Render》
+- [《GPU Gems》](https://developer.nvidia.com/gpugems/gpugems/foreword)
+- [《GPU Gems 2》](https://developer.nvidia.com/gpugems/gpugems2/copyright)
+- [《GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/foreword)
+- [《Game Programming Patterns》](http://gameprogrammingpatterns.com/contents.html)
+- 《GPU Pro》
+- 《GPU Pro 2》
+- 《GPU Pro 3》
+- 《GPU Pro 4》
+- 《GPU Pro 5》
+- 《GPU Pro 6》
+- 《GPU Pro 7》
+- 《GPU Zen》
 
