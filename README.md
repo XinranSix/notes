@@ -1,4 +1,4 @@
-![图形学、游戏开发](https://github.com/XinranSix/notes/assets/62458905/47f26e32-02af-4535-aa5b-90fae80d9730)
+![图形学、游戏开发](https://github.com/XinranSix/notes/assets/62458905/f9e1cba1-b817-48da-9be4-30b6a85e79b5)
 
 ## 大佬主页
 
