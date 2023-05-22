@@ -64,6 +64,7 @@
 - [【合集8.21已更新93话】Blender 2.9-3.4黑铁骑士Ⅱ系统零基础入门教程](https://www.bilibili.com/video/BV1zh411Y7LX/)
 - [3D建模教程，3dmax，MAYA，zbrush，3d建模基础教学全套](https://www.bilibili.com/video/BV1pA411j7pa/)
 - [冒死上传！目前B站最完整的绘画教程，包含所有绘画风格！插画|厚涂|原画|板绘!](https://www.bilibili.com/video/BV1d64y197gj/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=76a5184e318e57fe3ff6a57c443142ad)
+- [Blender 快捷键](https://shimo.im/sheets/oSMugmKgw2M9nFCn/MODOC?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2ODQ3NTg5ODYsImZpbGVHVUlEIjoiY2tZUTh4cTZKaFZ0ckdqaCIsImlhdCI6MTY4NDc1ODY4NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzk5NTc1NzQzM30.3pIjNzNbNSVF28rF9q8cK0yHIjcQ42EBobo5m133xs8)
 </details>
 
 <details>
