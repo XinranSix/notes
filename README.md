@@ -142,12 +142,14 @@
 <details>
 <summary>OpenGL</summary>
 
+- [动画](https://xinransix.github.io/notes/notes/数学/四元数.html)
 </details>
 
 <details>
 <summary>数学</summary>
 
 - [线性代数](https://xinransix.github.io/notes/notes/%E6%95%B0%E5%AD%A6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.html)
+- [四元数](https://xinransix.github.io/notes/notes/数学/四元数.html)
 </details>
 
 <details>
