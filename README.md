@@ -153,9 +153,22 @@
 </details>
 
 <details>
+<summary>计算机图形学</summary>
+
+- [四元数](https://xinransix.github.io/notes/notes/计算机图形学/OpenGL 中的投影矩阵.html)
+- [法线矩阵（The Normal Matrix](https://xinransix.github.io/notes/notes/计算机图形学/法线矩阵（The Normal Matrix）.html)
+</details>
+
+<details>
 <summary>C++</summary>
 
 - [C++基础](https://xinransix.github.io/notes/notes/CPP/C++基础.html)
+- [C++基础](https://xinransix.github.io/notes/notes/CPP/IO.html)
+- [C++基础](https://xinransix.github.io/notes/notes/CPP/OOP.html)
+- [C++基础](https://xinransix.github.io/notes/notes/CPP/STL.html)
+- [C++基础](https://xinransix.github.io/notes/notes/CPP/Template.html)
+- [C++基础](https://xinransix.github.io/notes/notes/CPP/指针.html)
+- [C++基础](https://xinransix.github.io/notes/notes/CPP/运算符重载.html)
 - [cmake](https://xinransix.github.io/notes/notes/CPP/cmake.html)
 </details>
 
