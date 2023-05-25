@@ -155,19 +155,19 @@
 <summary>计算机图形学</summary>
 
 - [四元数](https://xinransix.github.io/notes/notes/计算机图形学/OpenGL中的投影矩阵.html)
-- [法线矩阵（The Normal Matrix](https://xinransix.github.io/notes/notes/计算机图形学/法线矩阵.html)
+- [法线矩阵](https://xinransix.github.io/notes/notes/计算机图形学/法线矩阵.html)
 </details>
 
 <details>
 <summary>C++</summary>
 
 - [C++基础](https://xinransix.github.io/notes/notes/CPP/C++基础.html)
-- [IO](https://xinransix.github.io/notes/notes/CPP/IO.html)
-- [OOP](https://xinransix.github.io/notes/notes/CPP/OOP.html)
-- [STL](https://xinransix.github.io/notes/notes/CPP/STL.html)
-- [Template](https://xinransix.github.io/notes/notes/CPP/Template.html)
 - [指针](https://xinransix.github.io/notes/notes/CPP/指针.html)
 - [运算符重载](https://xinransix.github.io/notes/notes/CPP/运算符重载.html)
+- [OOP](https://xinransix.github.io/notes/notes/CPP/OOP.html)
+- [IO](https://xinransix.github.io/notes/notes/CPP/IO.html)
+- [STL](https://xinransix.github.io/notes/notes/CPP/STL.html)
+- [Template](https://xinransix.github.io/notes/notes/CPP/Template.html)
 - [cmake](https://xinransix.github.io/notes/notes/CPP/cmake.html)
 </details>
 
