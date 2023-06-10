@@ -1,5 +1,3 @@
-![图形学、游戏开发](https://github.com/XinranSix/notes/assets/62458905/f9e1cba1-b817-48da-9be4-30b6a85e79b5)
-
 ## 大佬主页
 
 - [毛星云（知乎）](https://www.zhihu.com/people/mao-xing-yun)
@@ -175,6 +173,11 @@
 - [cmake](https://xinransix.github.io/notes/notes/CPP/cmake.html)
 </details>
 
+<details>
+<summary>C</summary>
+
+</details>
+
 ## 工具汇总
 
 - [WolframAlpha](https://www.wolframalpha.com/)
@@ -221,6 +224,7 @@
 - 《数字图像处理》
 - 《C++ Primer》
 - 《The Rust Programming Language》
+- 《Qt 6 C++ 开发指南》
 
 
 
