@@ -175,7 +175,7 @@
 
 <details>
 <summary>C</summary>
-
+- [C 基础](https://xinransix.github.io/notes/notes/C/C基础.html)
 </details>
 
 ## 工具汇总
