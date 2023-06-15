@@ -179,6 +179,7 @@
 <summary>C</summary>
 
 - [C语言入门](https://xinransix.github.io/notes/notes/C/C语言入门.html)
+- [数组](https://xinransix.github.io/notes/notes/C/数组.html)
 </details>
 
 ## 工具汇总
