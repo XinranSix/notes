@@ -1,3 +1,5 @@
+![学习路线](https://github.com/XinranSix/notes/assets/62458905/2536e8d6-71a0-42a1-a37e-7c7636982642)
+
 ## 大佬主页
 
 - [毛星云（知乎）](https://www.zhihu.com/people/mao-xing-yun)
