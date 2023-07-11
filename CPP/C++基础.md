@@ -1,4 +1,24 @@
+
+
 [TOC]
+
+## C++ 以不同进制输出
+
+```cpp
+#include <iostream>
+#include <bitset>
+
+using namespace std;
+
+int main() {
+    cout << hex << 0123 << endl; // 以十六进制输出
+    cout << oct << 0123 << endl; // 以八进制输出
+    cout << 0b00001010 << endl;
+    cout << bitset<8>(0b00001010) << endl; // 以二进制输出
+    cout << bitset<8>(100) << endl;        // 以二进制输出
+    return 0;
+}
+```
 
 ## C++ 关键字
 
