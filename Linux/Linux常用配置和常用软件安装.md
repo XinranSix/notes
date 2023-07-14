@@ -26,7 +26,7 @@ git config --global --unset https.proxy
 ## 设置代理
 
 ```bash
-export http_proxy=http://192.168.51.81:7890
-export https_proxy=http://192.168.51.81:7890
+export http_proxy=http://192.168.51.81:7890 && export https_proxy=http://192.168.51.81:7890
+export http_proxy=http://192.168.1.105:7890 && export https_proxy=http://192.168.1.105:7890
 ```
 
