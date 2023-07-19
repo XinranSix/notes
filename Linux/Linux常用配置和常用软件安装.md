@@ -30,3 +30,9 @@ export http_proxy=http://192.168.51.81:7890 && export https_proxy=http://192.168
 export http_proxy=http://192.168.1.105:7890 && export https_proxy=http://192.168.1.105:7890
 ```
 
+## 没有网络
+
+```bash
+sudo dhclient -v
+```
+
