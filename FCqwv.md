@@ -1,0 +1,1 @@
+![image-20231021215620146](D:\workspace\MyRepositories\notes\assets\image-20231021215620146.png)

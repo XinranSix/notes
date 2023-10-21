@@ -1,0 +1,1 @@
+原文章：https://graphics.stanford.edu/~seander/bithacks.html#OperationCounting
